@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Remainder
+from .models import Reminder
 
-admin.site.register(Remainder)
+admin.site.register(Reminder)
